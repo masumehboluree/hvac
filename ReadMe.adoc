@@ -1,0 +1,42 @@
+:Author: Tishin
+:Email: {videotronicmaker@gmail.com}
+:Date: 16/10/2019
+:Revision: version#1
+:License: Public Domain
+
+= Project: {I2C 1602 LCD}
+
+Connecting an I2C to an Arduino Uno is not difficult.
+Finding a sketch that allows you to display text is
+not hard either.  But what I didn't know was that you
+could use the serial monitor to type your text onto the screen.  
+I thought that this was worth sharing.  Thank you to the 
+Visuino team for making great software and tutorials to 
+make learning Arduino much easier.
+
+== Step 1: Installation
+Please describe the steps to install this project.
+
+
+1. Open this file
+2. Edit as you like
+3. Release to the World!
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit following the diagram layout.png attached to the sketch
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+
+=== Contributing
+To contribute to this project please contact Tishin https://id.arduino.cc/Tishin
+
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
