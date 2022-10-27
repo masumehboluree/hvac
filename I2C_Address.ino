@@ -1,5 +1,5 @@
 /*I2C_scanner
-  This sketch tests standard 7-bit addresses.
+  This sketch tests standard 7-bit addresses. asdf
   Devices with higher bit address might not be seen properly.*/
   
 #include <Wire.h>
